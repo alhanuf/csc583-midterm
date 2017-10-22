@@ -1,3 +1,7 @@
+
 # csc583-midterm
-please check ticket #3 
+please click on number #3  for ticket 
 and milestone.png
+
+[#3](https://github.com/alhanuf/csc583-midterm/issues/3)
+[picture](https://github.com/alhanuf/csc583-midterm/blob/master/images/milestone.png)
